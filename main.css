@@ -1,0 +1,22 @@
+body {
+    background-color: #20262E;
+}
+
+.card {
+    background-color: #F5F5F5
+}
+
+.add-btn {
+    background-color: #F2CD5C;
+}
+.add-btn:hover {
+    background-color: #F2CD5C;
+    color: #F7EFE5
+}
+.delete-btn {
+    background-color: #F55050;
+    color: #F7EFE5
+}
+.delete-btn:hover {
+    background-color: #F55050;
+}
