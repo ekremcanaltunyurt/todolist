@@ -20,4 +20,4 @@ A simple web application for managing a to-do list using Vanilla JavaScript.
 4.  Clear all to-do items from the list by clicking the "Clear All" button.
 
 
-[Todo List](https://eca-todolist.netlify.app/)
+[Todo List](https://eca-todolist.netlify.app/){target="_blank"}
